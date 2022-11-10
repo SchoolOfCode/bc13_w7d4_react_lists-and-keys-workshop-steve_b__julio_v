@@ -90,9 +90,9 @@ const samplePosts = [
     ],
     image: {
       link:
-        'https://ih1.redbubble.net/image.1278023532.5097/st,small,507x507-pad,600x600,f8f8f8.jpg',
+        'https://image.freepik.com/free-photo/pidgeon-waters-edge_19485-37038.jpg',
       alt:
-        'A pigeon with a cracking set of legs.',
+        'A pigeon with a spectacular green plumage stares thoughtfully into the distance.',
     },
   },
 ];
