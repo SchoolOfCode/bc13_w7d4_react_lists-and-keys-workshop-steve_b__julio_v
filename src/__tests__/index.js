@@ -18,5 +18,5 @@ test('renders three article elements on page', () => {
 
   // eslint-disable-next-line testing-library/no-node-access
   const articleElement = screen.container.querySelectorAll('article').length
-  expect(articleElement).toEqual(3);
+  expect(articleElement).toEqual(4);
 })
