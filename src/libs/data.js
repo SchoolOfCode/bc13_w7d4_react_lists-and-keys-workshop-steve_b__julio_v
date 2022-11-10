@@ -77,6 +77,24 @@ const samplePosts = [
         'A pigeon with a spectacular green plumage stares thoughtfully into the distance.',
     },
   },
+  {
+    postId: 4,
+    title: 'A Sexy Pidgeon',
+    date: '16/10/20',
+    author: 'Mohammad Feather',
+    text: lorem.generateParagraphs(7),
+    highlights: [
+      lorem.generateWords(3),
+      lorem.generateWords(3),
+      lorem.generateWords(3),
+    ],
+    image: {
+      link:
+        'https://ih1.redbubble.net/image.1278023532.5097/st,small,507x507-pad,600x600,f8f8f8.jpg',
+      alt:
+        'A pigeon with a cracking set of legs.',
+    },
+  },
 ];
 
 export default samplePosts;
